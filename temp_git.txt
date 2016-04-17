@@ -6,3 +6,4 @@ create a new branch
 create a new branch is quick and simple
 add merge
 test ff merge
+reslove issue-101
