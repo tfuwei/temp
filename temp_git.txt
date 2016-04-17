@@ -4,3 +4,4 @@ the third version of the file
 test github
 create a new branch
 create a new branch is quick and simple
+add merge
